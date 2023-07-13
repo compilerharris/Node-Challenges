@@ -10,4 +10,4 @@ Google Cloud Vision API with NodeJS
 
 This repo will explain you how to get "Landmark" name by using an image.
 
-Note: **_Your Google Console Billing Account must be enable to use Google Cloud Vision API. You can enable this from the Google Console Menu."_**
+**_Note: "Your Google Console Billing Account must be enable to use Google Cloud Vision API. You can enable this from the Google Console Menu."_**
